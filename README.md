@@ -25,8 +25,8 @@
 ### Development Stack
 #### BackEnd
 <img src="https://img.shields.io/badge/JSP-F7DF1E?style=for-the-badge&logo=jsp&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL-4479A1&logoColor=white">
 
-[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 #### FrontEnd
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
