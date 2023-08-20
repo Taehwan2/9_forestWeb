@@ -28,7 +28,7 @@
 
 
 #### FrontEnd
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 ### Communicatoin
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
